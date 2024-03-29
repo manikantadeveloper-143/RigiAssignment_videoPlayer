@@ -1,0 +1,17 @@
+li:hover .hidden {
+  display: block;
+}
+li:hover .list-index {
+  display: none;
+}
+
+.headingpng{
+  margin-left: 200px;
+  margin-top: -40px;
+  padding-left: 20px;
+  max-width: 70px;
+  height: auto;
+}
+.rigi{
+  background-color: rgb(210, 227, 227);
+}
